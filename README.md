@@ -1,9 +1,4 @@
 ## Hi 👋
-Author - Mahmuda Akter Momi
-<br>
-Student of Computer Science and Engnieering
-
-
 <!--
 **mmomicode762/mmomicode762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
